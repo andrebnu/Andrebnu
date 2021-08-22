@@ -2,8 +2,8 @@
 
   🏫 Estudando no momento!
   
- 🧑‍🎓 Análise e desemvolvimento de sistemas!
- 🧑‍🎓 C# Entra21 Blusoft!
+🧑‍🎓 Análise e desemvolvimento de sistemas!
+🧑‍🎓 C# Entra21 Blusoft!
  
  
   <div>
