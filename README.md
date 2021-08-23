@@ -4,7 +4,7 @@
 
   🏫 Estudando no momento!
   
-🧑‍🎓 Análise e desemvolvimento de sistemas!
+🧑‍🎓 Análise e desenvolvimento de sistemas!
 🧑‍🎓 C# Entra21 Blusoft!
  
  
