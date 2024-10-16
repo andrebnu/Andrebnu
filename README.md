@@ -2,8 +2,9 @@
 
 
 
-  🏫 Estudando no momento!
-  
+  🏫Sempre Estudando!
+
+🧑‍🎓 Desenvolvedor Full-Stack! 
 🧑‍🎓 Análise e desenvolvimento de sistemas!
 🧑‍🎓 Formado em  C# Entra21 Blusoft!
  
